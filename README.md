@@ -47,7 +47,7 @@ From this table we can see that the port for most expected incoming vessels is S
 From this table we can see that the port with the least expected incoming vessels is Constanta, Romania. This is followed by Pingtan China. Third is Norfollk, USA
 
 ## Sentiments
-With a continuously active maritime industry world wide, analyzing this data for activity was insightful in understanding how busy a port can be in a particular country and the amount of planning needed to ensure port traffic is planned and tracked continous system adaptation and improvement.
+With a continuously active maritime industry world wide, analyzing this data for activity was insightful in understanding how busy a port can be in a particular country and the amount of planning needed to ensure port traffic is planned and tracked with continous system adaptation and improvement.
 
 
 
