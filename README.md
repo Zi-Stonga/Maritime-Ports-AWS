@@ -25,7 +25,7 @@ From this table we can see that the least busiest port for incoming vessels is C
 ## Finding the port with the most number of vessel departures
 ![alt text](https://github.com/Zi-Stonga/Maritime-Ports-AWS/blob/main/Images/Most_Depatures.JPG)
 
-From this table we can see that the busiest port for vessels departures is Shanghai China, followed by Nantong, China. CJK China is the 3rd busiest port, followed by Naning and Jiangyin both in China. With the top 5 busiest ports all in China, we can deduct that this is due to the fact that china is the one the leading manufacturers of steel, car parts, chemicals, electronics, and robotics.
+From this table we can see that the busiest port for vessels departures is Shanghai China, followed by Nantong, China. CJK China is the 3rd busiest port, followed by Naning and Jiangyin both in China. With the top 5 busiest ports all in China, we can deduct that this is due to the fact that China is the leading manufacturer of steel, car parts, chemicals, electronics, and robotics.
 
 
 ## Finding the port with the least number of vessel departures
